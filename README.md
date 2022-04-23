@@ -30,9 +30,9 @@ Deixarei um exemplo básico abaixo como usar no navegador.
 > site:com.br filetype:pdf intext:Linux
 
 Explicando sobre o exemplo acima
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white=l&link=)]()
+
 
 > site:com.br - fazer buscas em páginas brasileira, filetype:pdf - quero arquivos pdf, intext:Linux - relacionado ao pdf com textos sobre Linux no arquivo.
 
 Acesse o site da exploit-db sobre o assunto.
->>>>>
+>>>>>[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white=l&link=https://www.exploit-db.com/google-hacking-database)](https://www.exploit-db.com/google-hacking-database)
